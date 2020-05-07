@@ -13,7 +13,7 @@ void Move(
 	 char pole[][9],
 	 int* team,
 	 int* scorewhite,
-	 int *scoreblack,
+	 int* scoreblack,
 	 char* Maswhite,
 	 char* Masblack);
 int MoveCheck(int team, int i1, int i2, int j1, int j2, char pole[][9]);
