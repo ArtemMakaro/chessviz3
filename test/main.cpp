@@ -56,4 +56,3 @@ TEST_CASE() // W_Queen
     pole[6][4] = 'P';
     REQUIRE(expected == result);
 }
-
