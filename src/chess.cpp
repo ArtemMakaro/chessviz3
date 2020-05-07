@@ -3,7 +3,7 @@
 void Move(
         char pole[][9],
         int* team,
-        int* scorewhite,
+        nt* scorewhite,
         int* scoreblack,
         char* Maswhite,
         char* Masblack)
